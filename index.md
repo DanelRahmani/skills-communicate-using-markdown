@@ -5,4 +5,4 @@
 ##### Header 5
 ###### Header 6
 
-Just some Minor Changes
+![Placeholder Image](https://octodex.github.com/images/yaktocat.png)
